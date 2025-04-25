@@ -1,0 +1,5 @@
+pip install pandas
+pip install numpy
+pip install pyodbc
+pip install requests
+pip install requests
